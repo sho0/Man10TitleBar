@@ -1,0 +1,7 @@
+name: Man10TitleBar
+version: ${project.version}
+main: red.man10.man10titlebar.Man10TitleBar
+authors: [Sho0]
+description: man10 title bar plugin
+commands:
+ mtitle:
